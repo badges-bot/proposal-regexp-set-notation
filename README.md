@@ -1,5 +1,7 @@
 # ECMAScript proposal: set notation in regular expressions
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 ## Authors
 
 - Markus Scherer
